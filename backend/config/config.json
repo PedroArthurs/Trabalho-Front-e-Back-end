@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Ls99712003*",
+    "database": "apinode",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
